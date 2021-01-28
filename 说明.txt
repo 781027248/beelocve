@@ -1,0 +1,4 @@
+administer文件夹为管理员端前端
+frontdesk为用户前端
+backstage为egg服务器
+数据库表文件夹放有sql文件
