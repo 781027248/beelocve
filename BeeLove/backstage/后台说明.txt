@@ -1,0 +1,12 @@
+backsatge/config/config.default.js文件下
+注意：数据库名字和密码
+//mysql配置
+exports.mysql = {
+	client: {
+		host: "localhost",
+		port: "3306",
+		user: "root",
+		password: "jwg666", //数据库密码
+		database: "beelove", //数据库名字
+	}
+};
